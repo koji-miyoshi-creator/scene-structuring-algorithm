@@ -1,4 +1,3 @@
-
 # A Scene Structuring Algorithm for Temporal and Emotional Coherence in Fictional Narratives
 
 This repository contains the manuscript and supporting files for:
@@ -8,6 +7,8 @@ This repository contains the manuscript and supporting files for:
 **Affiliation:** Part-time Lecturer, Kobe Gakuin University and Hannan University  
 **Contact:** k-miyoshi@hannan-u.ac.jp  
 **Date:** April 2025
+
+📄 [Download the full PDF version](./scene_structuring_algorithm.pdf)
 
 ## Abstract
 
@@ -20,4 +21,3 @@ All rights reserved by Koji Miyoshi. Academic or research use permitted with cit
 ## Citation
 
 Miyoshi, K. (2025). *A Scene Structuring Algorithm for Temporal and Emotional Coherence in Fictional Narratives*. Unpublished manuscript.
-
