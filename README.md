@@ -21,3 +21,11 @@ All rights reserved by Koji Miyoshi. Academic or research use permitted with cit
 ## Citation
 
 Miyoshi, K. (2025). *A Scene Structuring Algorithm for Temporal and Emotional Coherence in Fictional Narratives*. Unpublished manuscript.
+
+## Notes
+
+This manuscript was written in collaboration with GPT-4.  
+While the conceptual framework, algorithmic structure, and core ideas were developed by the author,  
+the English articulation, formatting, and documentation were assisted by the GPT-4 language model.  
+The author does not claim native-level fluency in English.
+
